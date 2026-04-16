@@ -65,7 +65,13 @@ project/
 │
 ├── figures/
 │   ├── SWI_plot.png
-│   ├── hub_plot.png
+│   ├── HubDominance_plot.png
+│   ├── LobeAssort_plot.png
+│   ├── HemisphereAssort_plot.png
+│   ├── DegreeAssort_plot.png
+│   ├── PathLength_plot.png
+│   ├── Clustering_plot.png
+│   ├── Modularity_plot.png
 │
 └── README.md
 ```
