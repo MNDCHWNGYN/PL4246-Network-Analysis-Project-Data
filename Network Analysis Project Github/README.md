@@ -54,6 +54,7 @@ project/
 ├── data/
 │   ├── AveragedMatrix.txt
 │   ├── region_names_full_file.txt
+│   ├── region_names_abbrev_file.txt
 │
 ├── scripts/
 │   ├── analysis.R
